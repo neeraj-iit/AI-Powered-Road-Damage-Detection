@@ -104,17 +104,9 @@ The model was evaluated against a held-out test set from the RDD2022-India datas
 
 | Name | Email |
 | :--- | :--- |
-<<<<<<< HEAD
 | **Neeraj Yadav** | 21f1005729@ds.study.iitm.ac.in
 | **Rahul Yadav** | 22f1001680@ds.study.iitm.ac.in
 | **Kisalay Pan** | [kisalay.email@example.com](mailto:kisalay.email@example.com)
-=======
-| **Yash Kumar** | [yash.email@example.com](mailto:yash.email@example.com)
-| **Neeraj Yadav** | 21f1005729@ds.study.iitm.ac.in
-| **Rahul Yadav** | 22f1001680@ds.study.iitm.ac.in
-| **Kisalay Pan** | [kisalay.email@example.com](mailto:kisalay.email@example.com)
-| **Nishant Kumar** | [nishant.email@example.com](mailto:nishant.email@example.com)
->>>>>>> 48d1b43c (initial commit)
 
 ## ⚖️ License
 
